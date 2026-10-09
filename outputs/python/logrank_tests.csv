@@ -1,0 +1,7 @@
+comparison,test,df,chi2,p_value
+trade_promo: 1 vs 0,log-rank (2 groups),1,247.3817991036246,9.665913104654245e-56
+pos_material: 1 vs 0,log-rank (2 groups),1,424.0602395998459,3.189312628721289e-94
+has_merchandiser: 1 vs 0,log-rank (2 groups),1,519.6446776098774,5.056465308139489e-115
+channel,multivariate log-rank,4,785.271976310281,1.189739127114029e-168
+category,multivariate log-rank,5,608.5893154484412,2.818082029773257e-129
+sellthrough_band,multivariate log-rank,3,3811.4707606842744,0.0
